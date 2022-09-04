@@ -1,6 +1,6 @@
 defmodule ListFilter do
   @moduledoc """
-  Receives values and returns how many odd numbers has in it.
+  Receives a list of elements and returns how many odd numbers has in it.
   """
 
   @type element() :: any()
